@@ -88,9 +88,6 @@ EXTENDED_FONT_FOOTPRINT := true
 TARGET_INIT_VENDOR_LIB := libinit_msm
 TARGET_PLATFORM_DEVICE_BASE := /devices/soc.0/
 
-# Malloc
-MALLOC_IMPL := dlmalloc
-
 # Power
 TARGET_POWERHAL_VARIANT := qcom
 
